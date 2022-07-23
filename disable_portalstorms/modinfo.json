@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "disable_portalstorms",
+    "name": "Disable Portal Storms",
+    "authors": [ "KC" ],
+    "maintainers": [ "KC" ],
+    "description": "Disables the Portal Storms",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
